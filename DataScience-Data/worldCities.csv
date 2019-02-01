@@ -1,0 +1,251 @@
+City / Urban area,Country,Population,Land area (in sqKm)
+Buenos Aires,Argentina,"11,200,000","2,266"
+Melbourne,Australia,"3,162,000","2,080"
+Sydney,Australia,"3,502,000","1,687"
+Brisbane,Australia,"1,508,000","1,603"
+Perth,Australia,"1,177,000",964
+Adelaide,Australia,"1,002,000",729
+Gold Coast,Australia,"422,000",383
+Vienna,Austria,"1,550,000",453
+Baku/Sumqayit,Azerbaijan,"2,100,000",544
+Brussels,Belgium,"1,570,000",712
+Antwerp,Belgium,"915,000",596
+Sao Paulo,Brazil,"17,700,000","1,968"
+Rio de Janeiro,Brazil,"10,800,000","1,580"
+Belo Horizonte,Brazil,"4,000,000",868
+Curitiba,Brazil,"2,500,000",648
+Brasilia,Brazil,"1,625,000",583
+Fortaleza,Brazil,"2,650,000",583
+Porto Alegre,Brazil,"2,800,000",583
+Campinas,Brazil,"1,750,000",492
+Goiania,Brazil,"1,475,000",479
+Recife,Brazil,"3,025,000",376
+Phnom Penh,Cambodia,"1,500,000",518
+Montreal.,Canada,"3,216,000","1,740"
+Toronto,Canada,"4,367,000","1,655"
+Vancouver,Canada,"1,830,000","1,120"
+Edmonton,Canada,"782,000",850
+Calgary,Canada,"879,000",702
+Quebec,Canada,"635,000",669
+Ottawa/Hull,Canada,"828,000",490
+Winnipeg,Canada,"627,000",446
+St. Catharines,Canada,"300,000",389
+Santiago,Chile,"5,425,000",648
+Beijing,China,"8,614,000",748
+Shanghai,China,"10,000,000",746
+Shenzhen,China,"8,000,000",466
+Shenyang,China,"4,200,000",453
+Tianjin,China,"4,750,000",453
+Dalian,China,"2,750,000",389
+Bogota,Colombia,"7,000,000",518
+Kinshasa,Congo,"5,000,000",469
+Lumumbashi,Congo,"1,200,000",427
+Copenhagen,Denmark,"1,525,000",816
+Quito,Ecuador,"1,500,000",479
+Cairo,Egypt,"12,200,000","1,295"
+Helsinki,Finland,"1,000,000",479
+Paris,France,"9,645,000","2,723"
+Marseille,France,"1,350,000","1,204"
+Bordeaux,France,"754,000","1,057"
+Lyon,France,"1,349,000",954
+Toulouse,France,"761,000",808
+Nice,France,"889,000",721
+Toulon,France,"520,000",713
+Avignon,France,"254,000",508
+Valenciennes,France,"357,000",507
+Douai/Lens,France,"519,000",489
+Nantes,France,"545,000",476
+Lille,France,"1,050,000",474
+Pau,France,"181,000",450
+Tours,France,"298,000",421
+Bethune,France,"259,000",390
+Essen/Düsseldorf,Germany,"7,350,000","2,642"
+Berlin,Germany,"3,675,000",984
+Frankfurt,Germany,"2,260,000",984
+Hamburg,Germany,"1,925,000",829
+Cologne/Bonn,Germany,"1,960,000",816
+Munich,Germany,"1,600,000",518
+Stuttgart,Germany,"1,250,000",414
+Aachen,Germany,"585,000",401
+Accra,Ghana,"1,500,000",453
+Athens,Greece,"3,685,000",684
+Budapest,Hungary,"1,800,000",702
+Delhi,India,"14,300,000","1,295"
+Hyderabad,India,"5,300,000",583
+Bangalore,India,"5,400,000",534
+Kolkata,India,"12,700,000",531
+Mumbai,India,"14,350,000",484
+Chennai,India,"5,950,000",414
+Jakarta,Indonesia,"14,250,000","1,360"
+Tehran,Iran,"7,250,000",686
+Baghdad,Iraq,"5,500,000",596
+Dublin,Ireland,"1,075,000",365
+Tel Aviv,Israel,"2,300,000",453
+Milan,Italy,"4,250,000","1,554"
+Rome,Italy,"2,500,000",842
+Naples,Italy,"2,400,000",583
+Turin,Italy,"1,350,000",500
+Tokyo/Yokohama,Japan,"33,200,000","6,993"
+Nagoya,Japan,"9,000,000","2,875"
+Osaka/Kobe/Kyoto,Japan,"16,425,000","2,564"
+Fukuoka,Japan,"2,150,000",544
+Sapporo,Japan,"2,075,000",414
+Kuwait,Kuwait,"1,600,000",544
+Beirut,Lebanon,"1,800,000",648
+Kuala Lumpur,Malaysia,"4,400,000","1,606"
+Mexico City,Mexico,"17,400,000","2,072"
+Guadalajara,Mexico,"3,500,000",596
+Monterey,Mexico,"3,200,000",479
+Rotterdam,Netherlands,"1,325,000",531
+Auckland,New Zealand,"1,050,000",531
+Lagos,Nigeria,"13,400,000",738
+Lahore,Pakistan,"5,100,000",622
+Karachi,Pakistan,"9,800,000",518
+Lima,Peru,"7,000,000",596
+Manila,Philippines,"14,750,000","1,399"
+Katowice,Poland,"2,200,000",544
+Warsaw,Poland,"2,000,000",466
+Lisbon,Portugal,"2,250,000",881
+Porto,Portugal,"1,035,000",389
+San Juan,Puerto Rico,"2,217,000","2,309"
+Aguadilla,Puerto Rico,"299,000",620
+Moscow,Russia,"10,500,000","2,150"
+St Petersburg,Russia,"5,300,000",622
+Nizhni Novgorod,Russia,"1,500,000",505
+Arabia,Saudi,"1,525,000",673
+Riyadh,Saudi Arabia,"4,000,000","1,101"
+Jeddah,Saudi Arabia,"2,750,000",777
+Singapore,Singapore,"4,000,000",479
+Johannesburg/East Rand,South Africa,"6,000,000","2,396"
+Durban,South Africa,"2,900,000",829
+Cape Town,South Africa,"2,700,000",686
+Pretoria,South Africa,"1,850,000",673
+Vereeniging,South Africa,"600,000",479
+Port Elizabeth,South Africa,"900,000",427
+Seoul/Incheon,South Korea,"17,500,000","1,049"
+Madrid,Spain,"4,900,000",945
+Barcelona,Spain,"3,900,000",803
+Khartoum,Sudan,"4,000,000",583
+Stockholm,Sweden,"1,400,000",518
+Taichung,Taiwan,"2,000,000",510
+Taipei,Taiwan,"5,700,000",376
+Bangkok,Thailand,"6,500,000","1,010"
+Istanbul,Turkey,"9,000,000","1,166"
+Ankara,Turkey,"3,100,000",583
+Abu Dhabi,UAE,"550,000",777
+Dubai,UAE,"1,900,000",712
+London,UK,"8,278,000","1,623"
+Birmingham,UK,"2,284,000",600
+Manchester,UK,"2,245,000",558
+Leeds/Bradford,UK,"1,499,000",370
+Glasgow,UK,"1,200,000",368
+Donetsk,Ukraine,"1,400,000",451
+New York Metro,USA,"17,800,000","8,683"
+Chicago,USA,"8,308,000","5,498"
+Atlanta,USA,"3,500,000","5,083"
+Philadelphia,USA,"5,149,000","4,661"
+Boston,USA,"4,032,000","4,497"
+Los Angeles,USA,"11,789,000","4,320"
+Dallas/Fort Worth,USA,"4,146,000","3,644"
+Houston,USA,"3,823,000","3,355"
+Detroit,USA,"3,903,000","3,267"
+Washington,USA,"3,934,000","2,996"
+Miami,USA,"4,919,000","2,891"
+Seattle,USA,"2,712,000","2,470"
+Minneapolis/St. Paul,USA,"2,389,000","2,316"
+Pittsburgh,USA,"1,753,000","2,208"
+St. Louis,USA,"2,078,000","2,147"
+Tampa//St. Petersburg,USA,"2,062,000","2,078"
+Phoenix/Mesa,USA,"2,907,000","2,069"
+San Diego,USA,"2,674,000","2,026"
+Baltimore,USA,"2,076,000","1,768"
+Cincinnati,USA,"1,503,000","1,740"
+Cleveland,USA,"1,787,000","1,676"
+Kansas City,USA,"1,362,000","1,514"
+Indianapolis,USA,"1,219,000","1,432"
+San Francisco//Oakland,USA,"3,229,000","1,365"
+Virginia Beach,USA,"1,394,000","1,364"
+Providence,USA,"1,175,000","1,304"
+Denver,USA,"1,985,000","1,292"
+Milwaukee,USA,"1,309,000","1,261"
+Portland,USA,"1,583,000","1,228"
+Hartford,USA,"852,000","1,216"
+Bridgeport//Stamford,USA,"889,000","1,205"
+Orlando,USA,"1,157,000","1,174"
+Riverside/San Bernardino,USA,"1,507,000","1,136"
+Richmond,USA,"819,000","1,131"
+Charlotte,USA,"759,000","1,126"
+Nashville,USA,"750,000","1,116"
+Jacksonville,USA,"882,000","1,063"
+San Antonio,USA,"1,328,000","1,056"
+Memphis,USA,"972,000","1,036"
+Columbus,USA,"1,133,000","1,030"
+Birmingham,USA,"664,000","1,016"
+Louisville,USA,"864,000","1,013"
+Sacramento,USA,"1,393,000",956
+Buffalo,USA,"977,000",950
+Knoxville,USA,"420,000",879
+Dayton,USA,"703,000",838
+Oklahoma City,USA,"747,000",835
+Raleigh,USA,"542,000",828
+Austin,USA,"902,000",824
+McAllen,USA,"523,000",813
+Springfield,USA,"574,000",800
+Akron,USA,"570,000",797
+Rochester,USA,"694,000",764
+Tucson,USA,"720,000",755
+Chattanooga,USA,"344,000",751
+Allentown/Bethlehem,USA,"576,000",750
+Barnstable Town,USA,"244,000",741
+Las Vegas,USA,"1,314,000",741
+New Haven,USA,"531,000",739
+Albany,USA,"559,000",736
+Baton Rouge,USA,"479,000",727
+Sarasota//Bradenton,USA,"559,000",700
+Columbia,USA,"421,000",697
+Poughkeepsie,USA,"352,000",686
+Tulsa,USA,"558,000",677
+San Jose,USA,"1,538,000",674
+Grand Rapids,USA,"539,000",667
+Winston/Salem,USA,"299,000",651
+Worcester,USA,"430,000",648
+Augusta,USA,"336,000",600
+Flint,USA,"365,000",599
+Charleston,USA,"423,000",598
+Salt Lake City,USA,"888,000",598
+Youngstown,USA,"417,000",591
+Greenville,USA,"302,000",587
+Omaha,USA,"627,000",586
+Albuquerque,USA,"598,000",580
+Palm Bay,USA,"393,000",569
+El Paso,USA,"675,000",568
+Pensacola,USA,"324,000",568
+Hickory,USA,"188,000",546
+Mobile,USA,"318,000",546
+Harrisburg,USA,"363,000",540
+Asheville,USA,"222,000",536
+Little Rock,USA,"360,000",532
+Toledo,USA,"503,000",524
+Lancaster,USA,"324,000",517
+New Orleans,USA,"1,009,000",512
+Colorado Springs,USA,"466,000",511
+Cape Coral,USA,"330,000",497
+Ogden,USA,"418,000",466
+Syracuse,USA,"402,000",465
+Wichita,USA,"422,000",465
+Concord,USA,"553,000",457
+Port St Lucie,USA,"271,000",438
+Fayetteville,USA,"276,000",433
+Jackson,USA,"293,000",417
+Scranton,USA,"385,000",411
+Huntsville,USA,"213,000",407
+Durham,USA,"288,000",406
+South Bend,USA,"276,000",404
+Shreveport,USA,"275,000",401
+Honolulu,USA,"718,000",399
+Bonita Springs / Naples,USA,"221,000",389
+Canton,USA,"267,000",372
+Spokane,USA,"335,000",371
+Tashkent,Uzbekistan,"2,200,000",531
+Ho Chi Minh City,Vietnam,"4,900,000",518
+Harare,Zimbabwe,"1,750,000",712

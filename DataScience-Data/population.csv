@@ -1,0 +1,251 @@
+id,City / Urban area,Country,Population
+1,Buenos Aires,Argentina,11200000
+2,Melbourne,Australia,"3,162,000"
+3,Sydney,Australia,"3,502,000"
+4,Brisbane,Australia,"1,508,000"
+5,Perth,Australia,"1,177,000"
+6,Adelaide,Australia,"1,002,000"
+7,Gold Coast,Australia,"422,000"
+8,Vienna,Austria,"1,550,000"
+9,Baku/Sumqayit,Azerbaijan,"2,100,000"
+10,Brussels,Belgium,"1,570,000"
+11,Antwerp,Belgium,"915,000"
+12,Sao Paulo,Brazil,"17,700,000"
+13,Rio de Janeiro,Brazil,"10,800,000"
+14,Belo Horizonte,Brazil,"4,000,000"
+15,Curitiba,Brazil,"2,500,000"
+16,Brasilia,Brazil,"1,625,000"
+17,Fortaleza,Brazil,"2,650,000"
+18,Porto Alegre,Brazil,"2,800,000"
+19,Campinas,Brazil,"1,750,000"
+20,Goiania,Brazil,"1,475,000"
+21,Recife,Brazil,"3,025,000"
+22,Phnom Penh,Cambodia,"1,500,000"
+23,Montreal.,Canada,"3,216,000"
+24,Toronto,Canada,"4,367,000"
+25,Vancouver,Canada,"1,830,000"
+26,Edmonton,Canada,"782,000"
+27,Calgary,Canada,"879,000"
+28,Quebec,Canada,"635,000"
+29,Ottawa/Hull,Canada,"828,000"
+30,Winnipeg,Canada,"627,000"
+31,St. Catharines,Canada,"300,000"
+32,Santiago,Chile,"5,425,000"
+33,Beijing,China,"8,614,000"
+34,Shanghai,China,"10,000,000"
+35,Shenzhen,China,"8,000,000"
+36,Shenyang,China,"4,200,000"
+37,Tianjin,China,"4,750,000"
+38,Dalian,China,"2,750,000"
+39,Bogota,Colombia,"7,000,000"
+40,Kinshasa,Congo,"5,000,000"
+41,Lumumbashi,Congo,"1,200,000"
+42,Copenhagen,Denmark,"1,525,000"
+43,Quito,Ecuador,"1,500,000"
+44,Cairo,Egypt,"12,200,000"
+45,Helsinki,Finland,"1,000,000"
+46,Paris,France,"9,645,000"
+47,Marseille,France,"1,350,000"
+48,Bordeaux,France,"754,000"
+49,Lyon,France,"1,349,000"
+50,Toulouse,France,"761,000"
+51,Nice,France,"889,000"
+52,Toulon,France,"520,000"
+53,Avignon,France,"254,000"
+54,Valenciennes,France,"357,000"
+55,Douai/Lens,France,"519,000"
+56,Nantes,France,"545,000"
+57,Lille,France,"1,050,000"
+58,Pau,France,"181,000"
+59,Tours,France,"298,000"
+60,Bethune,France,"259,000"
+61,Essen/Düsseldorf,Germany,"7,350,000"
+62,Berlin,Germany,"3,675,000"
+63,Frankfurt,Germany,"2,260,000"
+64,Hamburg,Germany,"1,925,000"
+65,Cologne/Bonn,Germany,"1,960,000"
+66,Munich,Germany,"1,600,000"
+67,Stuttgart,Germany,"1,250,000"
+68,Aachen,Germany,"585,000"
+69,Accra,Ghana,"1,500,000"
+70,Athens,Greece,"3,685,000"
+71,Budapest,Hungary,"1,800,000"
+72,Delhi,India,"14,300,000"
+73,Hyderabad,India,"5,300,000"
+74,Bangalore,India,"5,400,000"
+75,Kolkata,India,"12,700,000"
+76,Mumbai,India,14350000
+77,Chennai,India,"5,950,000"
+78,Jakarta,Indonesia,"14,250,000"
+79,Tehran,Iran,"7,250,000"
+80,Baghdad,Iraq,"5,500,000"
+81,Dublin,Ireland,"1,075,000"
+82,Tel Aviv,Israel,"2,300,000"
+83,Milan,Italy,"4,250,000"
+84,Rome,Italy,"2,500,000"
+85,Naples,Italy,"2,400,000"
+86,Turin,Italy,"1,350,000"
+87,Tokyo/Yokohama,Japan,"33,200,000"
+88,Nagoya,Japan,9000000
+89,Osaka/Kobe/Kyoto,Japan,"16,425,000"
+90,Fukuoka,Japan,"2,150,000"
+91,Sapporo,Japan,"2,075,000"
+92,Kuwait,Kuwait,"1,600,000"
+93,Beirut,Lebanon,"1,800,000"
+94,Kuala Lumpur,Malaysia,"4,400,000"
+95,Mexico City,Mexico,"17,400,000"
+96,Guadalajara,Mexico,3500000
+97,Monterey,Mexico,"3,200,000"
+98,Rotterdam,Netherlands,"1,325,000"
+99,Auckland,New Zealand,"1,050,000"
+100,Lagos,Nigeria,"13,400,000"
+101,Lahore,Pakistan,"5,100,000"
+102,Karachi,Pakistan,"9,800,000"
+103,Lima,Peru,"7,000,000"
+104,Manila,Philippines,"14,750,000"
+105,Katowice,Poland,2200000
+106,Warsaw,Poland,"2,000,000"
+107,Lisbon,Portugal,"2,250,000"
+108,Porto,Portugal,"1,035,000"
+109,San Juan,Puerto Rico,"2,217,000"
+110,Aguadilla,Puerto Rico,"299,000"
+111,Moscow,Russia,"10,500,000"
+112,St Petersburg,Russia,"5,300,000"
+113,Nizhni Novgorod,Russia,"1,500,000"
+114,Arabia,Saudi,"1,525,000"
+115,Riyadh,Saudi Arabia,"4,000,000"
+116,Jeddah,Saudi Arabia,"2,750,000"
+117,Singapore,Singapore,"4,000,000"
+118,Johannesburg/East Rand,South Africa,"6,000,000"
+119,Durban,South Africa,"2,900,000"
+120,Cape Town,South Africa,"2,700,000"
+121,Pretoria,South Africa,"1,850,000"
+122,Vereeniging,South Africa,"600,000"
+123,Port Elizabeth,South Africa,900000
+124,Seoul/Incheon,South Korea,"17,500,000"
+125,Madrid,Spain,"4,900,000"
+126,Barcelona,Spain,"3,900,000"
+127,Khartoum,Sudan,4000000
+128,Stockholm,Sweden,"1,400,000"
+129,Taichung,Taiwan,2000000
+130,Taipei,Taiwan,"5,700,000"
+131,Bangkok,Thailand,"6,500,000"
+132,Istanbul,Turkey,9000000
+133,Ankara,Turkey,"3,100,000"
+134,Abu Dhabi,UAE,"550,000"
+135,Dubai,UAE,1900000
+136,London,UK,"8,278,000"
+137,Birmingham,UK,"2,284,000"
+138,Manchester,UK,2245000
+139,Leeds/Bradford,UK,"1,499,000"
+140,Glasgow,UK,"1,200,000"
+141,Donetsk,Ukraine,"1,400,000"
+142,New York Metro,USA,"17,800,000"
+143,Chicago,USA,"8,308,000"
+144,Atlanta,USA,"3,500,000"
+145,Philadelphia,USA,"5,149,000"
+146,Boston,USA,"4,032,000"
+147,Los Angeles,USA,"11,789,000"
+148,Dallas/Fort Worth,USA,4146000
+149,Houston,USA,"3,823,000"
+150,Detroit,USA,"3,903,000"
+151,Washington,USA,3934000
+152,Miami,USA,"4,919,000"
+153,Seattle,USA,"2,712,000"
+154,Minneapolis/St. Paul,USA,"2,389,000"
+155,Pittsburgh,USA,"1,753,000"
+156,St. Louis,USA,2078000
+157,Tampa//St. Petersburg,USA,"2,062,000"
+158,Phoenix/Mesa,USA,2907000
+159,San Diego,USA,2674000
+160,Baltimore,USA,"2,076,000"
+161,Cincinnati,USA,"1,503,000"
+162,Cleveland,USA,"1,787,000"
+163,Kansas City,USA,1362000
+164,Indianapolis,USA,"1,219,000"
+165,San Francisco//Oakland,USA,"3,229,000"
+166,Virginia Beach,USA,"1,394,000"
+167,Providence,USA,1175000
+168,Denver,USA,1985000
+169,Milwaukee,USA,"1,309,000"
+170,Portland,USA,"1,583,000"
+171,Hartford,USA,"852,000"
+172,Bridgeport//Stamford,USA,889000
+173,Orlando,USA,1157000
+174,Riverside/San Bernardino,USA,"1,507,000"
+175,Richmond,USA,"819,000"
+176,Charlotte,USA,"759,000"
+177,Nashville,USA,750000
+178,Jacksonville,USA,"882,000"
+179,San Antonio,USA,"1,328,000"
+180,Memphis,USA,972000
+181,Columbus,USA,"1,133,000"
+182,Birmingham,USA,"664,000"
+183,Louisville,USA,864000
+184,Sacramento,USA,1393000
+185,Buffalo,USA,"977,000"
+186,Knoxville,USA,420000
+187,Dayton,USA,703000
+188,Oklahoma City,USA,"747,000"
+189,Raleigh,USA,"542,000"
+190,Austin,USA,"902,000"
+191,McAllen,USA,523000
+192,Springfield,USA,574000
+193,Akron,USA,570000
+194,Rochester,USA,694000
+195,Tucson,USA,"720,000"
+196,Chattanooga,USA,344000
+197,Allentown/Bethlehem,USA,"576,000"
+198,Barnstable Town,USA,244000
+199,Las Vegas,USA,1314000
+200,New Haven,USA,531000
+201,Albany,USA,559000
+202,Baton Rouge,USA,479000
+203,Sarasota//Bradenton,USA,559000
+204,Columbia,USA,421000
+205,Poughkeepsie,USA,352000
+206,Tulsa,USA,"558,000"
+207,San Jose,USA,"1,538,000"
+208,Grand Rapids,USA,539000
+209,Winston/Salem,USA,299000
+210,Worcester,USA,430000
+211,Augusta,USA,"336,000"
+212,Flint,USA,365000
+213,Charleston,USA,423000
+214,Salt Lake City,USA,888000
+215,Youngstown,USA,417000
+216,Greenville,USA,302000
+217,Omaha,USA,"627,000"
+218,Albuquerque,USA,598000
+219,Palm Bay,USA,"393,000"
+220,El Paso,USA,675000
+221,Pensacola,USA,324000
+222,Hickory,USA,"188,000"
+223,Mobile,USA,318000
+224,Harrisburg,USA,"363,000"
+225,Asheville,USA,222000
+226,Little Rock,USA,360000
+227,Toledo,USA,503000
+228,Lancaster,USA,324000
+229,New Orleans,USA,1009000
+230,Colorado Springs,USA,466000
+231,Cape Coral,USA,330000
+232,Ogden,USA,418000
+233,Syracuse,USA,402000
+234,Wichita,USA,422000
+235,Concord,USA,553000
+236,Port St Lucie,USA,271000
+237,Fayetteville,USA,276000
+238,Jackson,USA,293000
+239,Scranton,USA,385000
+240,Huntsville,USA,213000
+241,Durham,USA,288000
+242,South Bend,USA,276000
+243,Shreveport,USA,275000
+244,Honolulu,USA,718000
+245,Bonita Springs / Naples,USA,221000
+246,Canton,USA,267000
+247,Spokane,USA,335000
+248,Tashkent,Uzbekistan,2200000
+249,Ho Chi Minh City,Vietnam,4900000
+250,Harare,Zimbabwe,1750000
